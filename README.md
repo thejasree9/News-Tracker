@@ -74,7 +74,7 @@ No heavy ML algorithm is used in this version, but the modular design allows eas
 - Scroll through the list for news analysis and visualizations.
 
 
-## Setup Guide (No Virtual Environment Required)  
+## Setup Guide 
 1. **Clone the repository:**<br>
     ```
     git clone https://github.com/yourusername/news-tracker.git
@@ -105,6 +105,7 @@ Contributions are welcome!
 3. Commit your changes: `git commit -m "Description of changes"`
 4. Push to the branch: `git push origin feature-name`
 5. Open a pull request
+
 
 
 
