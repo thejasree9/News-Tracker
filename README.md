@@ -90,10 +90,7 @@ No heavy ML algorithm is used in this version, but the modular design allows eas
 6.  Open your browser at:
     http://localhost:8501
 
-## Project Images
-![Alt img]("C:\Users\theja\OneDrive\Pictures\Screenshots\Screenshot 2025-08-31 213825.png")
-![Alt img]("C:\Users\theja\OneDrive\Pictures\Screenshots\Screenshot 2025-08-31 214140.png")
-![Alt img]("C:\Users\theja\OneDrive\Pictures\Screenshots\Screenshot 2025-08-31 214251.png")
+
 
 ## Contributing
 Contributions are welcome!
@@ -102,3 +99,4 @@ Contributions are welcome!
 3. Commit your changes: `git commit -m "Description of changes"`
 4. Push to the branch: `git push origin feature-name`
 5. Open a pull request
+
