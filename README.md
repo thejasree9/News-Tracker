@@ -36,7 +36,7 @@ news_app/
 ---
 
 ## Technologies Used  
-- **Python 3.x**  
+- **Python 3.13.0**  
 - **Streamlit** → for building the web interface.  
 - **Requests** → for making API calls to GNews.  
 - **Pandas** → for handling and displaying data.  
@@ -105,6 +105,7 @@ Contributions are welcome!
 3. Commit your changes: `git commit -m "Description of changes"`
 4. Push to the branch: `git push origin feature-name`
 5. Open a pull request
+
 
 
 
