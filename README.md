@@ -76,18 +76,24 @@ No heavy ML algorithm is used in this version, but the modular design allows eas
 
 ## Setup Guide (No Virtual Environment Required)  
 1. **Clone the repository:**<br>
-    `git clone https://github.com/yourusername/news-tracker.git`<br>
-     `cd news-tracker`
+    ```
+    git clone https://github.com/yourusername/news-tracker.git
+    cd news-tracker
+    ```
 3. **Install dependencies globally:**<br>
-    `pip install -r requirements.txt`
-4. **Get your GNews API key:**
+    ```
+   pip install -r requirements.txt
+    ```
+5. **Get your GNews API key:**
     Sign up at https://gnews.io/ and copy your API key.
-5. **Create secrets.toml in the root directory:**<br>
+6. **Create secrets.toml in the root directory:**<br>
     [api_keys]
     GNEWS_API_KEY = "YOUR_API_KEY_HERE"
-6. **Run the app:**<br>
-    `streamlit run app.py`
-7.  Open your browser at:<br>
+7. **Run the app:**<br>
+    ```
+   streamlit run app.py
+    ```
+9.  Open your browser at:<br>
     http://localhost:8501
 
 
@@ -99,5 +105,6 @@ Contributions are welcome!
 3. Commit your changes: `git commit -m "Description of changes"`
 4. Push to the branch: `git push origin feature-name`
 5. Open a pull request
+
 
 
